@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "express": "^5.2.1",
-    "node-json-db": "^2.4.2"
+    "node-json-db": "^2.4.2",
+    "ws": "^8.19.0"
   }
 }
